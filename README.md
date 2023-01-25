@@ -10,3 +10,4 @@ Jira ID:The ID of thew jira ticket you want to navigate.
 
 Click the jump and it will open a new page and naviagte to the jira ticket you want to jump.
 
+Also, you could direct download the crx in code.
