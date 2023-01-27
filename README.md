@@ -8,6 +8,6 @@ Base URL:The base url of your jira(The part before the jira ID), it will remembe
 
 Jira ID:The ID of thew jira ticket you want to navigate.
 
-Click the jump and it will open a new page and naviagte to the jira ticket you want to jump.
+Click the jump button, or press the enter key, and it will open a new page and naviagte to the jira ticket you want to jump.
 
 Also, you could direct download the crx in code.
