@@ -1,8 +1,7 @@
 let base_url = document.getElementById("BaseUrl")
-function getStorage() {
-    chrome.storage.local.get(['BaseUrl'], function (url) {
+function getStorage(key) {
+    chrome.storage.local.get(key, function (url) {
         base_url.value = url.BaseUrl;
     });
 }
-getStorage()
-
+getStorage(['BaseUrl'])
